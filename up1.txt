@@ -1,0 +1,14 @@
+;aiu;
+
+[Update]
+Name = XdGuide
+ProductVersion = 1.2.0.0
+URL = http://www.example.com/downloads/XdGuide.exe
+Size = 21402748
+ReleaseDate = 25/03/2021
+SHA256 = 0DE98CD180B0E051DF2CC9DD7420D64AE6BC62E1125F1293B515702B783BC23A
+MD5 = 2300823e5ea45359aae53f8ab5108863
+ServerFileName = XdGuide.exe
+Flags = Critical
+RegistryKey = HKUD\Software\DevanshMistry\XdGuide\Version
+Version = 1.2.0.0
